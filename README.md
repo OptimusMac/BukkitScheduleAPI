@@ -32,7 +32,7 @@ public class Main extends JavaPlugin {
 По умолчанию все потоки запускаются через 100 тиков (5 секунд). Вы можете изменить это значение:  
 
 ```java
-new AdapterFindClasses(plugin, "ru.optimus", 500); // Задержка 500 мс
+new AdapterFindClasses(plugin, "ru.optimus", 500); // Задержка 500 тиков
 ```
 ## 2️⃣ Создание задач  
 
